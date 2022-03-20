@@ -1,0 +1,20 @@
+.my-container {
+    height: 100vh;
+}
+.parent-row {
+    height: 100vh;
+}
+.border1 {
+    border: 1px solid red;
+}
+.border2 {
+    border: 1px solid blue;
+}
+.border3 {
+    border: 1px solid green;
+}
+.border4 {
+    border: 1px solid pink;
+}
+
+
